@@ -1,1 +1,1 @@
-.This contains some good questions on stacks and queue question
+.This contains some good questions on stacks and queue questionss
